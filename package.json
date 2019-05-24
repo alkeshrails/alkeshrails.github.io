@@ -2,7 +2,7 @@
   "name": "blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/alkeshrails/alkeshrails.github.io",
+  "homepage": "https://alkeshrails.github.io/dashboard",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
